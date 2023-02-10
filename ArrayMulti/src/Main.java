@@ -15,4 +15,4 @@ public class Main {
             System.out.println("");
         }
     }
-}
+}String user = config[XPROD][CUSER];
